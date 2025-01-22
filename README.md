@@ -26,15 +26,11 @@ This project achieves the following:
 
 2. **Copy the Code:** Copy the provided Python script into your Kaggle Notebook.
 
-3. **Replace Placeholder:**
+3. **Enter Ngrok Token:** When prompted, enter your ngrok authentication token.
 
-    *   Replace `YOUR_KAGGLE_NOTEBOOK_URL` in the "Open in Kaggle" button URL at the top of this README with the URL of your actual Kaggle Notebook after you've created it.
+4. **Run the Code:** Run all cells in the Kaggle Notebook.
 
-4. **Enter Ngrok Token:** When prompted, enter your ngrok authentication token.
-
-5. **Run the Code:** Run all cells in the Kaggle Notebook.
-
-6. **Access the Ollama Server:** The script will output a URL like `https://<your-subdomain>.ngrok-free.app`. Use this URL to interact with your Ollama server.
+5. **Access the Ollama Server:** The script will output a URL like `https://<your-subdomain>.ngrok-free.app`. Use this URL to interact with your Ollama server.
 
 ## Important Notes
 
