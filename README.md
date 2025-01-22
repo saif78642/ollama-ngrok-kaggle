@@ -1,6 +1,5 @@
 # ollama-ngrok-kaggle
 
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=YOUR_KAGGLE_NOTEBOOK_URL)
 
 This repository provides a setup to run the [Ollama](https://ollama.ai/) large language model server within a Kaggle environment and make it accessible from anywhere using [ngrok](https://ngrok.com/). It also demonstrates configuring a custom Ollama model and utilizing the Deepseek model.
 
