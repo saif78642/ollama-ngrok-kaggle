@@ -18,6 +18,7 @@ def set_ollama_env_vars():
     """Set environment variables required for Ollama."""
     os.environ['OLLAMA_HOST'] = "0.0.0.0"
     os.environ['OLLAMA_ORIGINS'] = "*"
+    os.environ['OLLAMA_FLASH_ATTENTION'] = "true"
     print("Environment variables set for Ollama.")
 
 # Function to run shell commands
